@@ -271,7 +271,7 @@ AudioSource:
   m_audioClip: {fileID: 8300000, guid: a832b510a2cdac84eb5d13a796048fa5, type: 3}
   m_Resource: {fileID: 8300000, guid: a832b510a2cdac84eb5d13a796048fa5, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.235
+  m_Volume: 0.316
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -449,7 +449,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0.6946566, b: 0, a: 1}
+  m_Color: {r: 1, g: 0.61723715, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

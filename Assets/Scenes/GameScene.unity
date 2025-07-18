@@ -9442,8 +9442,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cargoList: {fileID: 11400000, guid: a93c914037a2efb478f1113fbb005515, type: 2}
   playerTransform: {fileID: 1965220534}
-  positionFollowSpeed: 15.54
-  rotationFollowSpeed: 5
+  positionFollowSpeed: 22.98
+  rotationFollowSpeed: 24.3
 --- !u!4 &1848810065
 Transform:
   m_ObjectHideFlags: 0
